@@ -25,7 +25,7 @@ read -p "enter a number greater than 10 : " num
 
 if [ "$num" -gt 10 ];
 then 
-        echo "you are correct"
+        echo "you are cor"
         
  else    
         echo "you are incorrect"
